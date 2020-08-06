@@ -1,4 +1,4 @@
-![bio](https://github.com/wallypark710/wallypark710/blob/master/bio-walli.gif)
+![bio](https://github.com/wallypark710/wallypark710/blob/master/walli-bio.gif)
 
 <!--
 **wallypark710/wallypark710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
